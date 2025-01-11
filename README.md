@@ -24,8 +24,9 @@ The process involves:
 - Generating a new image that combines the content and style
 
 Neural Style Transfer allows for the creation of unique and artistic images that blend the characteristics of two different images. It has applications in art, design, and image editing, and has been used to create stunning works of art that blend reality and fantasy.
-.
-.
-.
+
+
+
+
 Output of the task :- 2_What-is-Neural-Style-Transfer](https://github.com/user-attachments/assets/05732dc1-7a66-41f7-81b0-835cbf01d249)
 Neural-Style-Transfer-A-Deep-Dive.pdf
