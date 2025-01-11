@@ -29,4 +29,5 @@ Neural Style Transfer allows for the creation of unique and artistic images that
 
 
 Output of the task :- 2_What-is-Neural-Style-Transfer](https://github.com/user-attachments/assets/05732dc1-7a66-41f7-81b0-835cbf01d249)
-Neural-Style-Transfer-A-Deep-Dive.pdf
+
+https://github.com/manyavishakha/Neural-style-transfer-/issues/1#issue-2781894287
